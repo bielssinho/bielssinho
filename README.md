@@ -37,3 +37,5 @@
 <br>
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0ce3e8&height=120&section=footer"/>
+
+![Snake animation](https://github.com/bielssinho/bielssinho/blob/output/github-contribution-grid-snake.svg)
