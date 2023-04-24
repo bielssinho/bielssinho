@@ -12,7 +12,7 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bielssinho&show_icons=true&count_private=true&hide_border=true&title_color=0ce3e8&icon_color=0ce3e8&text_color=0ce3e8&bg_color=0d1117" alt="Gabriel dos Santos github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bielssinho&show_icons=true&count_private=false&hide_border=true&title_color=0ce3e8&icon_color=0ce3e8&text_color=0ce3e8&bg_color=0d1117" alt="Gabriel dos Santos github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bielssinho&layout=compact&hide_border=true&title_color=0ce3e8&text_color=0ce3e8&bg_color=0d1117" />
 </div>
 <div align="center"> 
