@@ -13,8 +13,8 @@
 
 <div align="center">  
   <a href="https://github.com/bielssinho">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bielssinho&show_icons=true&count_private=true&hide_border=true&title_color=0ce3e8&icon_color=0ce3e8&text_color=0ce3e8&bg_color=0d1117" alt="Gabriel dos Santos github stats" /> 
-  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bielssinho&layout=compact&hide_border=true&title_color=0ce3e8&text_color=0ce3e8&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bielssinho&show_icons=true&count_private=true&hide_border=true&title_color=0ce3e8&icon_color=0ce3e8&text_color=0ce3e8&bg_color=0d1117" alt="Gabriel dos Santos github stats" /> 
+  <img width="48%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bielssinho&layout=compact&hide_border=true&title_color=0ce3e8&text_color=0ce3e8&bg_color=0d1117" />
 </div>
 <div align="center"> 
 <a href="https://instagram.com/bielssinho_njr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
